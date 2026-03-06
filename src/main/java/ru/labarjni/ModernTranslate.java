@@ -40,7 +40,6 @@ public final class ModernTranslate extends PluginBase {
         var languages = config.getStringList("supported-languages");
         supportedLanguages.addAll(languages.isEmpty() ? List.of("eng", "rus") : languages);
 
-        getLogger().info("Supported languages: " + String.join(", ", supportedLanguages));
         initTranslations();
     }
 
