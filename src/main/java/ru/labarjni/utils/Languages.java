@@ -54,14 +54,6 @@ public final class Languages {
             SWE  // Svenska (swe: sv_SE)
     };
 
-    public static boolean isSupported(String code) {
-        if (code == null) return false;
-        for (LanguageCode lang : ALL) {
-            if (lang.code().equalsIgnoreCase(code)) return true;
-        }
-        return false;
-    }
-
     public static LanguageCode getByCode(String code) {
         if (code == null) return null;
         for (LanguageCode lang : ALL) {

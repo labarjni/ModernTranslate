@@ -26,7 +26,6 @@ public final class ModernTranslate extends PluginBase {
     @Getter private Translation translation;
 
     @Getter private Translation patternsTranslation;
-
     @Getter private final Map<String, Translation> pluginTranslations = new ConcurrentHashMap<>();
 
     private final Set<String> supportedLanguages = ConcurrentHashMap.newKeySet();
@@ -69,8 +68,12 @@ public final class ModernTranslate extends PluginBase {
     private void createDirectories(Path... paths) {
         for (var path : paths)
             if (Files.notExists(path))
-                try { Files.createDirectories(path); }
-                catch (Exception e) { getLogger().error("Failed: " + path, e); }
+                try {
+                    Files.createDirectories(path);
+                }
+                catch (Exception e) {
+                    getLogger().error("Failed: " + path, e);
+                }
     }
 
     public void registerPluginTranslations(String pluginName, File langFolder) {
