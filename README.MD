@@ -74,6 +74,7 @@ if (TranslationAPI.hasPattern("join.message")) {
     // Pattern exists
 }
 ```
+Patterns list available [here](https://github.com/labarjni/ModernTranslate/tree/master/src/main/resources/patterns), you can configure it personally
 
 ### Language Information
 ```java
