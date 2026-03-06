@@ -2,6 +2,7 @@
 
 ## Overview
 ModernTranslate is a Nukkit-MOT plugin that provides a comprehensive translation system for Minecraft: Bedrock Edition servers. It supports multiple languages and allows plugins to register their own translations.
+[This lib works only in Nukkit-MOT/java25](https://github.com/MemoriesOfTime/Nukkit-MOT/actions/workflows/maven.yml?query=branch%3Afeature/java-25)
 
 ## Features
 - 🌍 Multi-language support with 22+ languages
