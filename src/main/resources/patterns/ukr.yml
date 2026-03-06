@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: Ukrainian (ukr)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Так"
+no: "Ні"
+confirm: "Підтвердити"
+cancel: "Скасувати"
+save: "Зберегти"
+delete: "Видалити"
+edit: "Редагувати"
+close: "Закрити"
+back: "Назад"
+next: "Далі"
+apply: "Застосувати"
+reset: "Скинути"
+refresh: "Оновити"
+submit: "Надіслати"
+
+# ─────────── Navigation ───────────
+page: "Сторінка"
+pages: "Сторінка {0} з {1}"
+of: "з"
+search: "Пошук..."
+search_placeholder: "Введіть запит..."
+results: "Знайдено: {0}"
+loading: "Завантаження..."
+navigate: "Навігація"
+menu: "Меню"
+home: "Головна"
+
+# ─────────── Status ───────────
+success: "Успішно"
+error: "Помилка"
+warning: "Попередження"
+info: "Інформація"
+unknown: "Невідомо"
+pending: "Очікування"
+completed: "Завершено"
+failed: "Не вдалося"
+enabled: "Увімкнено"
+disabled: "Вимкнено"
+active: "Активно"
+inactive: "Неактивно"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} шт."
+  none: "Немає елементів"
+  selected: "Вибрано: {0}"
+  all: "Всі елементи"
+  remove: "Видалити елемент"
+  add: "Додати елемент"
+
+coins:
+  count: "{0} монет"
+  singular: "{0} монета"
+  plural: "{0} монети"
+  balance: "Баланс: {0}"
+
+inventory:
+  full: "Інвентар заповнений"
+  empty: "Інвентар порожній"
+  slots: "{0}/{1} слотів"
+
+# ─────────── Time ───────────
+time:
+  ago: "{0} тому"
+  now: "Щойно"
+  seconds: "{0} сек."
+  minutes: "{0} хв."
+  hours: "{0} год."
+  days: "{0} дн."
+  weeks: "{0} тиж."
+  months: "{0} міс."
+  years: "{0} років"
+
+date:
+  format: "dd.MM.yyyy"
+  today: "Сьогодні"
+  yesterday: "Вчора"
+  tomorrow: "Завтра"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "Ласкаво просимо, {0}!"
+  goodbye: "До побачення, {0}!"
+  no_permission: "У вас немає прав"
+  command_disabled: "Ця команда вимкнена"
+  player_not_found: "Гравця не знайдено"
+  reload_success: "Конфігурацію перезавантажено"
+  save_success: "Дані успішно збережено"
+  delete_confirm: "Ви впевнені, що хочете видалити?"

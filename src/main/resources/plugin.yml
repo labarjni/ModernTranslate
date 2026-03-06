@@ -1,0 +1,5 @@
+name: ModernTranslate
+main: ru.labarjni.ModernTranslate
+version: 1.0.0
+author: Labarjni
+description: Modern translation system for Nukkit-MOT plugins

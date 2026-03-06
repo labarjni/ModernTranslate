@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: Russian (rus)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Да"
+no: "Нет"
+confirm: "Подтвердить"
+cancel: "Отменить"
+save: "Сохранить"
+delete: "Удалить"
+edit: "Редактировать"
+close: "Закрыть"
+back: "Назад"
+next: "Далее"
+apply: "Применить"
+reset: "Сбросить"
+refresh: "Обновить"
+submit: "Отправить"
+
+# ─────────── Navigation ───────────
+page: "Страница"
+pages: "Страница {0} из {1}"
+of: "из"
+search: "Поиск..."
+search_placeholder: "Введите запрос..."
+results: "Найдено: {0}"
+loading: "Загрузка..."
+navigate: "Навигация"
+menu: "Меню"
+home: "Главная"
+
+# ─────────── Status ───────────
+success: "Успешно"
+error: "Ошибка"
+warning: "Предупреждение"
+info: "Информация"
+unknown: "Неизвестно"
+pending: "Ожидание"
+completed: "Завершено"
+failed: "Не удалось"
+enabled: "Включено"
+disabled: "Отключено"
+active: "Активно"
+inactive: "Неактивно"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} шт."
+  none: "Нет элементов"
+  selected: "Выбрано: {0}"
+  all: "Все элементы"
+  remove: "Удалить элемент"
+  add: "Добавить элемент"
+
+coins:
+  count: "{0} монет"
+  singular: "{0} монета"
+  plural: "{0} монеты"
+  balance: "Баланс: {0}"
+
+inventory:
+  full: "Инвентарь полон"
+  empty: "Инвентарь пуст"
+  slots: "{0}/{1} слотов"
+
+# ─────────── Time ───────────
+time:
+  ago: "{0} назад"
+  now: "Только что"
+  seconds: "{0} сек."
+  minutes: "{0} мин."
+  hours: "{0} ч."
+  days: "{0} дн."
+  weeks: "{0} нед."
+  months: "{0} мес."
+  years: "{0} лет"
+
+date:
+  format: "dd.MM.yyyy"
+  today: "Сегодня"
+  yesterday: "Вчера"
+  tomorrow: "Завтра"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "Добро пожаловать, {0}!"
+  goodbye: "До свидания, {0}!"
+  no_permission: "У вас нет прав"
+  command_disabled: "Эта команда отключена"
+  player_not_found: "Игрок не найден"
+  reload_success: "Конфигурация перезагружена"
+  save_success: "Данные успешно сохранены"
+  delete_confirm: "Вы уверены, что хотите удалить?"

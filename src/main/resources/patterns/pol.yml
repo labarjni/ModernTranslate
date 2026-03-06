@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: Polish (pol)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Tak"
+no: "Nie"
+confirm: "Potwierdź"
+cancel: "Anuluj"
+save: "Zapisz"
+delete: "Usuń"
+edit: "Edytuj"
+close: "Zamknij"
+back: "Wstecz"
+next: "Dalej"
+apply: "Zastosuj"
+reset: "Resetuj"
+refresh: "Odśwież"
+submit: "Wyślij"
+
+# ─────────── Navigation ───────────
+page: "Strona"
+pages: "Strona {0} z {1}"
+of: "z"
+search: "Szukaj..."
+search_placeholder: "Wpisz wyszukiwanie..."
+results: "Znaleziono: {0}"
+loading: "Ładowanie..."
+navigate: "Nawiguj"
+menu: "Menu"
+home: "Strona główna"
+
+# ─────────── Status ───────────
+success: "Sukces"
+error: "Błąd"
+warning: "Ostrzeżenie"
+info: "Info"
+unknown: "Nieznane"
+pending: "Oczekujące"
+completed: "Ukończone"
+failed: "Nieudane"
+enabled: "Włączone"
+disabled: "Wyłączone"
+active: "Aktywne"
+inactive: "Nieaktywne"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} elementów"
+  none: "Brak elementów"
+  selected: "Wybrano: {0}"
+  all: "Wszystkie elementy"
+  remove: "Usuń element"
+  add: "Dodaj element"
+
+coins:
+  count: "{0} monet"
+  singular: "{0} moneta"
+  plural: "{0} monety"
+  balance: "Saldo: {0}"
+
+inventory:
+  full: "Ekwipunek pełny"
+  empty: "Ekwipunek pusty"
+  slots: "{0}/{1} slotów"
+
+# ─────────── Time ───────────
+time:
+  ago: "{0} temu"
+  now: "Przed chwilą"
+  seconds: "{0}s"
+  minutes: "{0}m"
+  hours: "{0}h"
+  days: "{0}d"
+  weeks: "{0}tyg"
+  months: "{0}mies"
+  years: "{0}lat"
+
+date:
+  format: "dd.MM.yyyy"
+  today: "Dzisiaj"
+  yesterday: "Wczoraj"
+  tomorrow: "Jutro"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "Witaj, {0}!"
+  goodbye: "Do widzenia, {0}!"
+  no_permission: "Nie masz uprawnień"
+  command_disabled: "To polecenie jest wyłączone"
+  player_not_found: "Nie znaleziono gracza"
+  reload_success: "Konfiguracja przeładowana"
+  save_success: "Dane zapisane pomyślnie"
+  delete_confirm: "Czy na pewno chcesz usunąć?"

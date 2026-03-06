@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: French (fra)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Oui"
+no: "Non"
+confirm: "Confirmer"
+cancel: "Annuler"
+save: "Enregistrer"
+delete: "Supprimer"
+edit: "Modifier"
+close: "Fermer"
+back: "Retour"
+next: "Suivant"
+apply: "Appliquer"
+reset: "Réinitialiser"
+refresh: "Actualiser"
+submit: "Soumettre"
+
+# ─────────── Navigation ───────────
+page: "Page"
+pages: "Page {0} sur {1}"
+of: "sur"
+search: "Rechercher..."
+search_placeholder: "Entrez votre recherche..."
+results: "Trouvé: {0}"
+loading: "Chargement..."
+navigate: "Naviguer"
+menu: "Menu"
+home: "Accueil"
+
+# ─────────── Status ───────────
+success: "Succès"
+error: "Erreur"
+warning: "Avertissement"
+info: "Info"
+unknown: "Inconnu"
+pending: "En attente"
+completed: "Terminé"
+failed: "Échoué"
+enabled: "Activé"
+disabled: "Désactivé"
+active: "Actif"
+inactive: "Inactif"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} éléments"
+  none: "Aucun élément"
+  selected: "Sélectionné: {0}"
+  all: "Tous les éléments"
+  remove: "Supprimer l'élément"
+  add: "Ajouter un élément"
+
+coins:
+  count: "{0} pièces"
+  singular: "{0} pièce"
+  plural: "{0} pièces"
+  balance: "Solde: {0}"
+
+inventory:
+  full: "Inventaire plein"
+  empty: "Inventaire vide"
+  slots: "{0}/{1} emplacements"
+
+# ─────────── Time ───────────
+time:
+  ago: "il y a {0}"
+  now: "À l'instant"
+  seconds: "{0}s"
+  minutes: "{0}m"
+  hours: "{0}h"
+  days: "{0}j"
+  weeks: "{0}sem"
+  months: "{0}mois"
+  years: "{0}ans"
+
+date:
+  format: "dd/MM/yyyy"
+  today: "Aujourd'hui"
+  yesterday: "Hier"
+  tomorrow: "Demain"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "Bienvenue, {0}!"
+  goodbye: "Au revoir, {0}!"
+  no_permission: "Vous n'avez pas la permission"
+  command_disabled: "Cette commande est désactivée"
+  player_not_found: "Joueur non trouvé"
+  reload_success: "Configuration rechargée"
+  save_success: "Données enregistrées avec succès"
+  delete_confirm: "Êtes-vous sûr de vouloir supprimer?"

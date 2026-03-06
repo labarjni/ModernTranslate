@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: Hungarian (hun)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Igen"
+no: "Nem"
+confirm: "Megerősít"
+cancel: "Mégse"
+save: "Mentés"
+delete: "Törlés"
+edit: "Szerkesztés"
+close: "Bezárás"
+back: "Vissza"
+next: "Tovább"
+apply: "Alkalmaz"
+reset: "Visszaállítás"
+refresh: "Frissítés"
+submit: "Küldés"
+
+# ─────────── Navigation ───────────
+page: "Oldal"
+pages: "{0}. oldal / {1}"
+of: "/"
+search: "Keresés..."
+search_placeholder: "Írja be a keresést..."
+results: "Találatok: {0}"
+loading: "Betöltés..."
+navigate: "Navigáció"
+menu: "Menü"
+home: "Főoldal"
+
+# ─────────── Status ───────────
+success: "Siker"
+error: "Hiba"
+warning: "Figyelmeztetés"
+info: "Infó"
+unknown: "Ismeretlen"
+pending: "Függőben"
+completed: "Befejezve"
+failed: "Sikertelen"
+enabled: "Engedélyezve"
+disabled: "Letiltva"
+active: "Aktív"
+inactive: "Inaktív"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} elem"
+  none: "Nincs elem"
+  selected: "Kijelölve: {0}"
+  all: "Minden elem"
+  remove: "Elem eltávolítása"
+  add: "Elem hozzáadása"
+
+coins:
+  count: "{0} érme"
+  singular: "{0} érme"
+  plural: "{0} érme"
+  balance: "Egyenleg: {0}"
+
+inventory:
+  full: "A leltár tele van"
+  empty: "A leltár üres"
+  slots: "{0}/{1} hely"
+
+# ─────────── Time ───────────
+time:
+  ago: "{0} ezelőtt"
+  now: "Épp most"
+  seconds: "{0}mp"
+  minutes: "{0}p"
+  hours: "{0}ó"
+  days: "{0}n"
+  weeks: "{0}hét"
+  months: "{0}hó"
+  years: "{0}év"
+
+date:
+  format: "yyyy.MM.dd"
+  today: "Ma"
+  yesterday: "Tegnap"
+  tomorrow: "Holnap"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "Üdvözöljük, {0}!"
+  goodbye: "Viszontlátásra, {0}!"
+  no_permission: "Nincs jogosultsága"
+  command_disabled: "Ez a parancs le van tiltva"
+  player_not_found: "Játékos nem található"
+  reload_success: "Konfiguráció újratöltve"
+  save_success: "Adatok sikeresen mentve"
+  delete_confirm: "Biztosan törölni szeretné?"

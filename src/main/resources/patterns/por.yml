@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: Portuguese (por)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Sim"
+no: "Não"
+confirm: "Confirmar"
+cancel: "Cancelar"
+save: "Salvar"
+delete: "Excluir"
+edit: "Editar"
+close: "Fechar"
+back: "Voltar"
+next: "Próximo"
+apply: "Aplicar"
+reset: "Redefinir"
+refresh: "Atualizar"
+submit: "Enviar"
+
+# ─────────── Navigation ───────────
+page: "Página"
+pages: "Página {0} de {1}"
+of: "de"
+search: "Pesquisar..."
+search_placeholder: "Digite sua pesquisa..."
+results: "Encontrado: {0}"
+loading: "Carregando..."
+navigate: "Navegar"
+menu: "Menu"
+home: "Início"
+
+# ─────────── Status ───────────
+success: "Sucesso"
+error: "Erro"
+warning: "Aviso"
+info: "Info"
+unknown: "Desconhecido"
+pending: "Pendente"
+completed: "Concluído"
+failed: "Falhou"
+enabled: "Ativado"
+disabled: "Desativado"
+active: "Ativo"
+inactive: "Inativo"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} itens"
+  none: "Nenhum item"
+  selected: "Selecionado: {0}"
+  all: "Todos os itens"
+  remove: "Remover item"
+  add: "Adicionar item"
+
+coins:
+  count: "{0} moedas"
+  singular: "{0} moeda"
+  plural: "{0} moedas"
+  balance: "Saldo: {0}"
+
+inventory:
+  full: "Inventário cheio"
+  empty: "Inventário vazio"
+  slots: "{0}/{1} slots"
+
+# ─────────── Time ───────────
+time:
+  ago: "há {0}"
+  now: "Agora mesmo"
+  seconds: "{0}s"
+  minutes: "{0}m"
+  hours: "{0}h"
+  days: "{0}d"
+  weeks: "{0}sem"
+  months: "{0}mes"
+  years: "{0}anos"
+
+date:
+  format: "dd/MM/yyyy"
+  today: "Hoje"
+  yesterday: "Ontem"
+  tomorrow: "Amanhã"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "Bem-vindo, {0}!"
+  goodbye: "Adeus, {0}!"
+  no_permission: "Você não tem permissão"
+  command_disabled: "Este comando está desativado"
+  player_not_found: "Jogador não encontrado"
+  reload_success: "Configuração recarregada"
+  save_success: "Dados salvos com sucesso"
+  delete_confirm: "Tem certeza de que deseja excluir?"

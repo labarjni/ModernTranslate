@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: Spanish (spa)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Sí"
+no: "No"
+confirm: "Confirmar"
+cancel: "Cancelar"
+save: "Guardar"
+delete: "Eliminar"
+edit: "Editar"
+close: "Cerrar"
+back: "Atrás"
+next: "Siguiente"
+apply: "Aplicar"
+reset: "Restablecer"
+refresh: "Actualizar"
+submit: "Enviar"
+
+# ─────────── Navigation ───────────
+page: "Página"
+pages: "Página {0} de {1}"
+of: "de"
+search: "Buscar..."
+search_placeholder: "Ingrese su búsqueda..."
+results: "Encontrado: {0}"
+loading: "Cargando..."
+navigate: "Navegar"
+menu: "Menú"
+home: "Inicio"
+
+# ─────────── Status ───────────
+success: "Éxito"
+error: "Error"
+warning: "Advertencia"
+info: "Info"
+unknown: "Desconocido"
+pending: "Pendiente"
+completed: "Completado"
+failed: "Fallido"
+enabled: "Activado"
+disabled: "Desactivado"
+active: "Activo"
+inactive: "Inactivo"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} elementos"
+  none: "Sin elementos"
+  selected: "Seleccionado: {0}"
+  all: "Todos los elementos"
+  remove: "Eliminar elemento"
+  add: "Agregar elemento"
+
+coins:
+  count: "{0} monedas"
+  singular: "{0} moneda"
+  plural: "{0} monedas"
+  balance: "Saldo: {0}"
+
+inventory:
+  full: "Inventario lleno"
+  empty: "Inventario vacío"
+  slots: "{0}/{1} espacios"
+
+# ─────────── Time ───────────
+time:
+  ago: "hace {0}"
+  now: "Justo ahora"
+  seconds: "{0}s"
+  minutes: "{0}m"
+  hours: "{0}h"
+  days: "{0}d"
+  weeks: "{0}sem"
+  months: "{0}mes"
+  years: "{0}años"
+
+date:
+  format: "dd/MM/yyyy"
+  today: "Hoy"
+  yesterday: "Ayer"
+  tomorrow: "Mañana"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "¡Bienvenido, {0}!"
+  goodbye: "¡Adiós, {0}!"
+  no_permission: "No tienes permiso"
+  command_disabled: "Este comando está desactivado"
+  player_not_found: "Jugador no encontrado"
+  reload_success: "Configuración recargada"
+  save_success: "Datos guardados exitosamente"
+  delete_confirm: "¿Estás seguro de que quieres eliminar?"

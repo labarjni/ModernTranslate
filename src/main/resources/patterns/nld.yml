@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: Dutch (nld)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Ja"
+no: "Nee"
+confirm: "Bevestigen"
+cancel: "Annuleren"
+save: "Opslaan"
+delete: "Verwijderen"
+edit: "Bewerken"
+close: "Sluiten"
+back: "Terug"
+next: "Volgende"
+apply: "Toepassen"
+reset: "Resetten"
+refresh: "Vernieuwen"
+submit: "Verzenden"
+
+# ─────────── Navigation ───────────
+page: "Pagina"
+pages: "Pagina {0} van {1}"
+of: "van"
+search: "Zoeken..."
+search_placeholder: "Voer zoekopdracht in..."
+results: "Gevonden: {0}"
+loading: "Laden..."
+navigate: "Navigeren"
+menu: "Menu"
+home: "Home"
+
+# ─────────── Status ───────────
+success: "Succes"
+error: "Fout"
+warning: "Waarschuwing"
+info: "Info"
+unknown: "Onbekend"
+pending: "In behandeling"
+completed: "Voltooid"
+failed: "Mislukt"
+enabled: "Ingeschakeld"
+disabled: "Uitgeschakeld"
+active: "Actief"
+inactive: "Inactief"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} items"
+  none: "Geen items"
+  selected: "Geselecteerd: {0}"
+  all: "Alle items"
+  remove: "Item verwijderen"
+  add: "Item toevoegen"
+
+coins:
+  count: "{0} munten"
+  singular: "{0} munt"
+  plural: "{0} munten"
+  balance: "Saldo: {0}"
+
+inventory:
+  full: "Inventaris vol"
+  empty: "Inventaris leeg"
+  slots: "{0}/{1} slots"
+
+# ─────────── Time ───────────
+time:
+  ago: "{0} geleden"
+  now: "Zojuist"
+  seconds: "{0}s"
+  minutes: "{0}m"
+  hours: "{0}u"
+  days: "{0}d"
+  weeks: "{0}w"
+  months: "{0}mnd"
+  years: "{0}j"
+
+date:
+  format: "dd-MM-yyyy"
+  today: "Vandaag"
+  yesterday: "Gisteren"
+  tomorrow: "Morgen"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "Welkom, {0}!"
+  goodbye: "Tot ziens, {0}!"
+  no_permission: "Je hebt geen toestemming"
+  command_disabled: "Dit commando is uitgeschakeld"
+  player_not_found: "Speler niet gevonden"
+  reload_success: "Configuratie herladen"
+  save_success: "Gegevens succesvol opgeslagen"
+  delete_confirm: "Weet je zeker dat je wilt verwijderen?"

@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: Japanese (jpn)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "はい"
+no: "いいえ"
+confirm: "確認"
+cancel: "キャンセル"
+save: "保存"
+delete: "削除"
+edit: "編集"
+close: "閉じる"
+back: "戻る"
+next: "次へ"
+apply: "適用"
+reset: "リセット"
+refresh: "更新"
+submit: "送信"
+
+# ─────────── Navigation ───────────
+page: "ページ"
+pages: "{0}ページ目/全{1}ページ"
+of: "/"
+search: "検索..."
+search_placeholder: "検索語を入力..."
+results: "検索結果：{0}件"
+loading: "読み込み中..."
+navigate: "ナビゲート"
+menu: "メニュー"
+home: "ホーム"
+
+# ─────────── Status ───────────
+success: "成功"
+error: "エラー"
+warning: "警告"
+info: "情報"
+unknown: "不明"
+pending: "保留中"
+completed: "完了"
+failed: "失敗"
+enabled: "有効"
+disabled: "無効"
+active: "アクティブ"
+inactive: "非アクティブ"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0}アイテム"
+  none: "アイテムなし"
+  selected: "選択済み：{0}"
+  all: "すべてのアイテム"
+  remove: "アイテムを削除"
+  add: "アイテムを追加"
+
+coins:
+  count: "{0}コイン"
+  singular: "{0}コイン"
+  plural: "{0}コイン"
+  balance: "残高：{0}"
+
+inventory:
+  full: "インベントリがいっぱい"
+  empty: "インベントリが空"
+  slots: "{0}/{1}スロット"
+
+# ─────────── Time ───────────
+time:
+  ago: "{0}前"
+  now: "たった今"
+  seconds: "{0}秒"
+  minutes: "{0}分"
+  hours: "{0}時間"
+  days: "{0}日"
+  weeks: "{0}週間"
+  months: "{0}ヶ月"
+  years: "{0}年"
+
+date:
+  format: "yyyy/MM/dd"
+  today: "今日"
+  yesterday: "昨日"
+  tomorrow: "明日"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "ようこそ、{0}さん!"
+  goodbye: "さようなら、{0}さん!"
+  no_permission: "権限がありません"
+  command_disabled: "このコマンドは無効です"
+  player_not_found: "プレイヤーが見つかりません"
+  reload_success: "設定をリロードしました"
+  save_success: "データを保存しました"
+  delete_confirm: "本当に削除しますか？"

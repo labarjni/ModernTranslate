@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: German (deu)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Ja"
+no: "Nein"
+confirm: "Bestätigen"
+cancel: "Abbrechen"
+save: "Speichern"
+delete: "Löschen"
+edit: "Bearbeiten"
+close: "Schließen"
+back: "Zurück"
+next: "Weiter"
+apply: "Anwenden"
+reset: "Zurücksetzen"
+refresh: "Aktualisieren"
+submit: "Absenden"
+
+# ─────────── Navigation ───────────
+page: "Seite"
+pages: "Seite {0} von {1}"
+of: "von"
+search: "Suchen..."
+search_placeholder: "Suchbegriff eingeben..."
+results: "Gefunden: {0}"
+loading: "Laden..."
+navigate: "Navigieren"
+menu: "Menü"
+home: "Startseite"
+
+# ─────────── Status ───────────
+success: "Erfolg"
+error: "Fehler"
+warning: "Warnung"
+info: "Info"
+unknown: "Unbekannt"
+pending: "Ausstehend"
+completed: "Abgeschlossen"
+failed: "Fehlgeschlagen"
+enabled: "Aktiviert"
+disabled: "Deaktiviert"
+active: "Aktiv"
+inactive: "Inaktiv"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} Elemente"
+  none: "Keine Elemente"
+  selected: "Ausgewählt: {0}"
+  all: "Alle Elemente"
+  remove: "Element entfernen"
+  add: "Element hinzufügen"
+
+coins:
+  count: "{0} Münzen"
+  singular: "{0} Münze"
+  plural: "{0} Münzen"
+  balance: "Guthaben: {0}"
+
+inventory:
+  full: "Inventar ist voll"
+  empty: "Inventar ist leer"
+  slots: "{0}/{1} Slots"
+
+# ─────────── Time ───────────
+time:
+  ago: "vor {0}"
+  now: "Gerade eben"
+  seconds: "{0}s"
+  minutes: "{0}m"
+  hours: "{0}h"
+  days: "{0}T"
+  weeks: "{0}W"
+  months: "{0}Mo"
+  years: "{0}J"
+
+date:
+  format: "dd.MM.yyyy"
+  today: "Heute"
+  yesterday: "Gestern"
+  tomorrow: "Morgen"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "Willkommen, {0}!"
+  goodbye: "Auf Wiedersehen, {0}!"
+  no_permission: "Sie haben keine Berechtigung"
+  command_disabled: "Dieser Befehl ist deaktiviert"
+  player_not_found: "Spieler nicht gefunden"
+  reload_success: "Konfiguration neu geladen"
+  save_success: "Daten erfolgreich gespeichert"
+  delete_confirm: "Möchten Sie wirklich löschen?"

@@ -1,0 +1,23 @@
+supported-languages:
+  - eng  # English (US/UK)
+  - rus  # Русский
+  - ukr  # Українська
+  - deu  # Deutsch
+  - fra  # Français
+  - spa  # Español
+  - ita  # Italiano
+  - jpn  # 日本語
+  - kor  # 한국어
+  - zho  # 简体中文
+  - pol  # Polski
+  - por  # Português
+  - tur  # Türkçe
+  - nld  # Nederlands
+  - ces  # Čeština
+  - dan  # Dansk
+  - ell  # Ελληνικά
+  - fin  # Suomi
+  - hun  # Magyar
+  - nor  # Norsk
+  - swe  # Svenska
+  - vie  # Tiếng Việt

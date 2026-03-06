@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: Finnish (fin)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Kyllä"
+no: "Ei"
+confirm: "Vahvista"
+cancel: "Peruuta"
+save: "Tallenna"
+delete: "Poista"
+edit: "Muokkaa"
+close: "Sulje"
+back: "Takaisin"
+next: "Seuraava"
+apply: "Käytä"
+reset: "Nollaa"
+refresh: "Päivitä"
+submit: "Lähetä"
+
+# ─────────── Navigation ───────────
+page: "Sivu"
+pages: "Sivu {0} / {1}"
+of: "/"
+search: "Hae..."
+search_placeholder: "Syötä haku..."
+results: "Löytyi: {0}"
+loading: "Ladataan..."
+navigate: "Navigoi"
+menu: "Valikko"
+home: "Koti"
+
+# ─────────── Status ───────────
+success: "Onnistui"
+error: "Virhe"
+warning: "Varoitus"
+info: "Tieto"
+unknown: "Tuntematon"
+pending: "Odottaa"
+completed: "Valmis"
+failed: "Epäonnistui"
+enabled: "Käytössä"
+disabled: "Pois käytöstä"
+active: "Aktiivinen"
+inactive: "Ei aktiivinen"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} kohdetta"
+  none: "Ei kohteita"
+  selected: "Valittu: {0}"
+  all: "Kaikki kohteet"
+  remove: "Poista kohde"
+  add: "Lisää kohde"
+
+coins:
+  count: "{0} kolikkoa"
+  singular: "{0} kolikko"
+  plural: "{0} kolikkoa"
+  balance: "Saldo: {0}"
+
+inventory:
+  full: "Tavaraluettelo täynnä"
+  empty: "Tavaraluettelo tyhjä"
+  slots: "{0}/{1} paikkaa"
+
+# ─────────── Time ───────────
+time:
+  ago: "{0} sitten"
+  now: "Juuri nyt"
+  seconds: "{0}s"
+  minutes: "{0}m"
+  hours: "{0}t"
+  days: "{0}pv"
+  weeks: "{0}vk"
+  months: "{0}kk"
+  years: "{0}v"
+
+date:
+  format: "dd.MM.yyyy"
+  today: "Tänään"
+  yesterday: "Eilen"
+  tomorrow: "Huomenna"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "Tervetuloa, {0}!"
+  goodbye: "Näkemiin, {0}!"
+  no_permission: "Sinulla ei ole lupaa"
+  command_disabled: "Tämä komento on poistettu käytöstä"
+  player_not_found: "Pelaajaa ei löytynyt"
+  reload_success: "Asetukset ladattu uudelleen"
+  save_success: "Tiedot tallennettu onnistuneesti"
+  delete_confirm: "Haluatko varmasti poistaa?"

@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: Danish (dan)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Ja"
+no: "Nej"
+confirm: "Bekræft"
+cancel: "Annuller"
+save: "Gem"
+delete: "Slet"
+edit: "Rediger"
+close: "Luk"
+back: "Tilbage"
+next: "Næste"
+apply: "Anvend"
+reset: "Nulstil"
+refresh: "Opdater"
+submit: "Indsend"
+
+# ─────────── Navigation ───────────
+page: "Side"
+pages: "Side {0} af {1}"
+of: "af"
+search: "Søg..."
+search_placeholder: "Indtast søgning..."
+results: "Fundet: {0}"
+loading: "Indlæser..."
+navigate: "Naviger"
+menu: "Menu"
+home: "Hjem"
+
+# ─────────── Status ───────────
+success: "Succes"
+error: "Fejl"
+warning: "Advarsel"
+info: "Info"
+unknown: "Ukendt"
+pending: "Afventer"
+completed: "Fuldført"
+failed: "Mislykkedes"
+enabled: "Aktiveret"
+disabled: "Deaktiveret"
+active: "Aktiv"
+inactive: "Inaktiv"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} elementer"
+  none: "Ingen elementer"
+  selected: "Valgt: {0}"
+  all: "Alle elementer"
+  remove: "Fjern element"
+  add: "Tilføj element"
+
+coins:
+  count: "{0} mønter"
+  singular: "{0} mønt"
+  plural: "{0} mønter"
+  balance: "Saldo: {0}"
+
+inventory:
+  full: "Inventar er fuld"
+  empty: "Inventar er tom"
+  slots: "{0}/{1} pladser"
+
+# ─────────── Time ───────────
+time:
+  ago: "for {0} siden"
+  now: "Lige nu"
+  seconds: "{0}s"
+  minutes: "{0}m"
+  hours: "{0}t"
+  days: "{0}d"
+  weeks: "{0}u"
+  months: "{0}md"
+  years: "{0}å"
+
+date:
+  format: "dd-MM-yyyy"
+  today: "I dag"
+  yesterday: "I går"
+  tomorrow: "I morgen"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "Velkommen, {0}!"
+  goodbye: "Farvel, {0}!"
+  no_permission: "Du har ikke tilladelse"
+  command_disabled: "Denne kommando er deaktiveret"
+  player_not_found: "Spiller ikke fundet"
+  reload_success: "Konfiguration genindlæst"
+  save_success: "Data gemt succesfuldt"
+  delete_confirm: "Er du sikker på at du vil slette?"

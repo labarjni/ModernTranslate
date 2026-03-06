@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: Czech (ces)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Ano"
+no: "Ne"
+confirm: "Potvrdit"
+cancel: "Zrušit"
+save: "Uložit"
+delete: "Smazat"
+edit: "Upravit"
+close: "Zavřít"
+back: "Zpět"
+next: "Další"
+apply: "Použít"
+reset: "Resetovat"
+refresh: "Obnovit"
+submit: "Odeslat"
+
+# ─────────── Navigation ───────────
+page: "Stránka"
+pages: "Stránka {0} z {1}"
+of: "z"
+search: "Hledat..."
+search_placeholder: "Zadejte hledání..."
+results: "Nalezeno: {0}"
+loading: "Načítání..."
+navigate: "Navigovat"
+menu: "Menu"
+home: "Domů"
+
+# ─────────── Status ───────────
+success: "Úspěch"
+error: "Chyba"
+warning: "Upozornění"
+info: "Info"
+unknown: "Neznámé"
+pending: "Čekající"
+completed: "Dokončeno"
+failed: "Neúspěšné"
+enabled: "Povoleno"
+disabled: "Zakázáno"
+active: "Aktivní"
+inactive: "Neaktivní"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} položek"
+  none: "Žádné položky"
+  selected: "Vybráno: {0}"
+  all: "Všechny položky"
+  remove: "Odebrat položku"
+  add: "Přidat položku"
+
+coins:
+  count: "{0} mincí"
+  singular: "{0} mince"
+  plural: "{0} mince"
+  balance: "Zůstatek: {0}"
+
+inventory:
+  full: "Inventář je plný"
+  empty: "Inventář je prázdný"
+  slots: "{0}/{1} slotů"
+
+# ─────────── Time ───────────
+time:
+  ago: "před {0}"
+  now: "Právě teď"
+  seconds: "{0}s"
+  minutes: "{0}m"
+  hours: "{0}h"
+  days: "{0}d"
+  weeks: "{0}t"
+  months: "{0}měs"
+  years: "{0}r"
+
+date:
+  format: "dd.MM.yyyy"
+  today: "Dnes"
+  yesterday: "Včera"
+  tomorrow: "Zítra"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "Vítejte, {0}!"
+  goodbye: "Na shledanou, {0}!"
+  no_permission: "Nemáte oprávnění"
+  command_disabled: "Tento příkaz je zakázán"
+  player_not_found: "Hráč nenalezen"
+  reload_success: "Konfigurace znovu načtena"
+  save_success: "Data úspěšně uložena"
+  delete_confirm: "Opravdu chcete smazat?"

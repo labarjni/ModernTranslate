@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: Turkish (tur)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Evet"
+no: "Hayır"
+confirm: "Onayla"
+cancel: "İptal"
+save: "Kaydet"
+delete: "Sil"
+edit: "Düzenle"
+close: "Kapat"
+back: "Geri"
+next: "İleri"
+apply: "Uygula"
+reset: "Sıfırla"
+refresh: "Yenile"
+submit: "Gönder"
+
+# ─────────── Navigation ───────────
+page: "Sayfa"
+pages: "Sayfa {0}/{1}"
+of: "/"
+search: "Ara..."
+search_placeholder: "Arama girin..."
+results: "Bulundu: {0}"
+loading: "Yükleniyor..."
+navigate: "Gezin"
+menu: "Menü"
+home: "Ana Sayfa"
+
+# ─────────── Status ───────────
+success: "Başarılı"
+error: "Hata"
+warning: "Uyarı"
+info: "Bilgi"
+unknown: "Bilinmiyor"
+pending: "Bekliyor"
+completed: "Tamamlandı"
+failed: "Başarısız"
+enabled: "Etkin"
+disabled: "Devre Dışı"
+active: "Aktif"
+inactive: "Pasif"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} öğe"
+  none: "Öğe yok"
+  selected: "Seçili: {0}"
+  all: "Tüm öğeler"
+  remove: "Öğeyi kaldır"
+  add: "Öğe ekle"
+
+coins:
+  count: "{0} coin"
+  singular: "{0} coin"
+  plural: "{0} coin"
+  balance: "Bakiye: {0}"
+
+inventory:
+  full: "Envanter dolu"
+  empty: "Envanter boş"
+  slots: "{0}/{1} yuva"
+
+# ─────────── Time ───────────
+time:
+  ago: "{0} önce"
+  now: "Şimdi"
+  seconds: "{0}s"
+  minutes: "{0}d"
+  hours: "{0}s"
+  days: "{0}g"
+  weeks: "{0}h"
+  months: "{0}ay"
+  years: "{0}y"
+
+date:
+  format: "dd.MM.yyyy"
+  today: "Bugün"
+  yesterday: "Dün"
+  tomorrow: "Yarın"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "Hoş geldin, {0}!"
+  goodbye: "Güle güle, {0}!"
+  no_permission: "İzniniz yok"
+  command_disabled: "Bu komut devre dışı"
+  player_not_found: "Oyuncu bulunamadı"
+  reload_success: "Yapılandırma yeniden yüklendi"
+  save_success: "Veriler başarıyla kaydedildi"
+  delete_confirm: "Silmek istediğinize emin misiniz?"

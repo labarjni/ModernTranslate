@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: Vietnamese (vie)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Có"
+no: "Không"
+confirm: "Xác nhận"
+cancel: "Hủy"
+save: "Lưu"
+delete: "Xóa"
+edit: "Sửa"
+close: "Đóng"
+back: "Quay lại"
+next: "Tiếp theo"
+apply: "Áp dụng"
+reset: "Đặt lại"
+refresh: "Làm mới"
+submit: "Gửi"
+
+# ─────────── Navigation ───────────
+page: "Trang"
+pages: "Trang {0} của {1}"
+of: "của"
+search: "Tìm kiếm..."
+search_placeholder: "Nhập tìm kiếm..."
+results: "Tìm thấy: {0}"
+loading: "Đang tải..."
+navigate: "Điều hướng"
+menu: "Menu"
+home: "Trang chủ"
+
+# ─────────── Status ───────────
+success: "Thành công"
+error: "Lỗi"
+warning: "Cảnh báo"
+info: "Thông tin"
+unknown: "Không rõ"
+pending: "Đang chờ"
+completed: "Hoàn thành"
+failed: "Thất bại"
+enabled: "Đã bật"
+disabled: "Đã tắt"
+active: "Hoạt động"
+inactive: "Không hoạt động"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} mục"
+  none: "Không có mục nào"
+  selected: "Đã chọn: {0}"
+  all: "Tất cả mục"
+  remove: "Xóa mục"
+  add: "Thêm mục"
+
+coins:
+  count: "{0} xu"
+  singular: "{0} xu"
+  plural: "{0} xu"
+  balance: "Số dư: {0}"
+
+inventory:
+  full: "Kho đầy"
+  empty: "Kho trống"
+  slots: "{0}/{1} ô"
+
+# ─────────── Time ───────────
+time:
+  ago: "cách đây {0}"
+  now: "Vừa xong"
+  seconds: "{0}giây"
+  minutes: "{0}phút"
+  hours: "{0}giờ"
+  days: "{0}ngày"
+  weeks: "{0}tuần"
+  months: "{0}tháng"
+  years: "{0}năm"
+
+date:
+  format: "dd/MM/yyyy"
+  today: "Hôm nay"
+  yesterday: "Hôm qua"
+  tomorrow: "Ngày mai"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "Chào mừng, {0}!"
+  goodbye: "Tạm biệt, {0}!"
+  no_permission: "Bạn không có quyền"
+  command_disabled: "Lệnh này đã bị tắt"
+  player_not_found: "Không tìm thấy người chơi"
+  reload_success: "Đã tải lại cấu hình"
+  save_success: "Đã lưu dữ liệu thành công"
+  delete_confirm: "Bạn có chắc chắn muốn xóa?"

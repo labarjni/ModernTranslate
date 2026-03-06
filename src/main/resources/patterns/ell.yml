@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: Greek (ell)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Ναι"
+no: "Όχι"
+confirm: "Επιβεβαίωση"
+cancel: "Ακύρωση"
+save: "Αποθήκευση"
+delete: "Διαγραφή"
+edit: "Επεξεργασία"
+close: "Κλείσιμο"
+back: "Πίσω"
+next: "Επόμενο"
+apply: "Εφαρμογή"
+reset: "Επαναφορά"
+refresh: "Ανανέωση"
+submit: "Υποβολή"
+
+# ─────────── Navigation ───────────
+page: "Σελίδα"
+pages: "Σελίδα {0} από {1}"
+of: "από"
+search: "Αναζήτηση..."
+search_placeholder: "Εισάγετε αναζήτηση..."
+results: "Βρέθηκαν: {0}"
+loading: "Φόρτωση..."
+navigate: "Πλοήγηση"
+menu: "Μενού"
+home: "Αρχική"
+
+# ─────────── Status ───────────
+success: "Επιτυχία"
+error: "Σφάλμα"
+warning: "Προειδοποίηση"
+info: "Πληροφορίες"
+unknown: "Άγνωστο"
+pending: "Εκκρεμεί"
+completed: "Ολοκληρώθηκε"
+failed: "Απέτυχε"
+enabled: "Ενεργοποιημένο"
+disabled: "Απενεργοποιημένο"
+active: "Ενεργό"
+inactive: "Ανενεργό"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} στοιχεία"
+  none: "Δεν υπάρχουν στοιχεία"
+  selected: "Επιλεγμένα: {0}"
+  all: "Όλα τα στοιχεία"
+  remove: "Αφαίρεση στοιχείου"
+  add: "Προσθήκη στοιχείου"
+
+coins:
+  count: "{0} νομίσματα"
+  singular: "{0} νόμισμα"
+  plural: "{0} νομίσματα"
+  balance: "Υπόλοιπο: {0}"
+
+inventory:
+  full: "Το απόθεμα είναι γεμάτο"
+  empty: "Το απόθεμα είναι άδειο"
+  slots: "{0}/{1} θέσεις"
+
+# ─────────── Time ───────────
+time:
+  ago: "πριν {0}"
+  now: "Μόλις τώρα"
+  seconds: "{0}δ"
+  minutes: "{0}λ"
+  hours: "{0}ω"
+  days: "{0}η"
+  weeks: "{0}ε"
+  months: "{0}μ"
+  years: "{0}χ"
+
+date:
+  format: "dd/MM/yyyy"
+  today: "Σήμερα"
+  yesterday: "Χθες"
+  tomorrow: "Αύριο"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "Καλώς ήρθατε, {0}!"
+  goodbye: "Αντίο, {0}!"
+  no_permission: "Δεν έχετε άδεια"
+  command_disabled: "Αυτή η εντολή είναι απενεργοποιημένη"
+  player_not_found: "Ο παίκτης δεν βρέθηκε"
+  reload_success: "Η διαμόρφωση επαναφορτώθηκε"
+  save_success: "Τα δεδομένα αποθηκεύτηκαν επιτυχώς"
+  delete_confirm: "Είστε σίγουροι ότι θέλετε να διαγράψετε;"

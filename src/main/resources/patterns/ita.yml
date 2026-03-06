@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: Italian (ita)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Sì"
+no: "No"
+confirm: "Conferma"
+cancel: "Annulla"
+save: "Salva"
+delete: "Elimina"
+edit: "Modifica"
+close: "Chiudi"
+back: "Indietro"
+next: "Avanti"
+apply: "Applica"
+reset: "Reimposta"
+refresh: "Aggiorna"
+submit: "Invia"
+
+# ─────────── Navigation ───────────
+page: "Pagina"
+pages: "Pagina {0} di {1}"
+of: "di"
+search: "Cerca..."
+search_placeholder: "Inserisci ricerca..."
+results: "Trovato: {0}"
+loading: "Caricamento..."
+navigate: "Naviga"
+menu: "Menu"
+home: "Home"
+
+# ─────────── Status ───────────
+success: "Successo"
+error: "Errore"
+warning: "Avviso"
+info: "Info"
+unknown: "Sconosciuto"
+pending: "In attesa"
+completed: "Completato"
+failed: "Fallito"
+enabled: "Abilitato"
+disabled: "Disabilitato"
+active: "Attivo"
+inactive: "Inattivo"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} elementi"
+  none: "Nessun elemento"
+  selected: "Selezionato: {0}"
+  all: "Tutti gli elementi"
+  remove: "Rimuovi elemento"
+  add: "Aggiungi elemento"
+
+coins:
+  count: "{0} monete"
+  singular: "{0} moneta"
+  plural: "{0} monete"
+  balance: "Saldo: {0}"
+
+inventory:
+  full: "Inventario pieno"
+  empty: "Inventario vuoto"
+  slots: "{0}/{1} slot"
+
+# ─────────── Time ───────────
+time:
+  ago: "{0} fa"
+  now: "Proprio ora"
+  seconds: "{0}s"
+  minutes: "{0}m"
+  hours: "{0}h"
+  days: "{0}g"
+  weeks: "{0}sett"
+  months: "{0}mesi"
+  years: "{0}anni"
+
+date:
+  format: "dd/MM/yyyy"
+  today: "Oggi"
+  yesterday: "Ieri"
+  tomorrow: "Domani"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "Benvenuto, {0}!"
+  goodbye: "Arrivederci, {0}!"
+  no_permission: "Non hai il permesso"
+  command_disabled: "Questo comando è disabilitato"
+  player_not_found: "Giocatore non trovato"
+  reload_success: "Configurazione ricaricata"
+  save_success: "Dati salvati con successo"
+  delete_confirm: "Sei sicuro di voler eliminare?"

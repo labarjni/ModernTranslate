@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: Norwegian (nor)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Ja"
+no: "Nei"
+confirm: "Bekreft"
+cancel: "Avbryt"
+save: "Lagre"
+delete: "Slett"
+edit: "Rediger"
+close: "Lukk"
+back: "Tilbake"
+next: "Neste"
+apply: "Bruk"
+reset: "Tilbakestill"
+refresh: "Oppdater"
+submit: "Send"
+
+# ─────────── Navigation ───────────
+page: "Side"
+pages: "Side {0} av {1}"
+of: "av"
+search: "Søk..."
+search_placeholder: "Skriv inn søk..."
+results: "Funnet: {0}"
+loading: "Laster..."
+navigate: "Naviger"
+menu: "Meny"
+home: "Hjem"
+
+# ─────────── Status ───────────
+success: "Suksess"
+error: "Feil"
+warning: "Advarsel"
+info: "Info"
+unknown: "Ukjent"
+pending: "Venter"
+completed: "Fullført"
+failed: "Mislyktes"
+enabled: "Aktivert"
+disabled: "Deaktivert"
+active: "Aktiv"
+inactive: "Inaktiv"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} elementer"
+  none: "Ingen elementer"
+  selected: "Valgt: {0}"
+  all: "Alle elementer"
+  remove: "Fjern element"
+  add: "Legg til element"
+
+coins:
+  count: "{0} mynter"
+  singular: "{0} mynt"
+  plural: "{0} mynter"
+  balance: "Balanse: {0}"
+
+inventory:
+  full: "Beholderen er full"
+  empty: "Beholderen er tom"
+  slots: "{0}/{1} plasser"
+
+# ─────────── Time ───────────
+time:
+  ago: "for {0} siden"
+  now: "Akkurat nå"
+  seconds: "{0}s"
+  minutes: "{0}m"
+  hours: "{0}t"
+  days: "{0}d"
+  weeks: "{0}u"
+  months: "{0}md"
+  years: "{0}å"
+
+date:
+  format: "dd.MM.yyyy"
+  today: "I dag"
+  yesterday: "I går"
+  tomorrow: "I morgen"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "Velkommen, {0}!"
+  goodbye: "Ha det bra, {0}!"
+  no_permission: "Du har ikke tillatelse"
+  command_disabled: "Denne kommandoen er deaktivert"
+  player_not_found: "Spiller ikke funnet"
+  reload_success: "Konfigurasjon lastet på nytt"
+  save_success: "Data lagret vellykket"
+  delete_confirm: "Er du sikker på at du vil slette?"

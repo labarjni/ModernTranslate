@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: Swedish (swe)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Ja"
+no: "Nej"
+confirm: "Bekräfta"
+cancel: "Avbryt"
+save: "Spara"
+delete: "Radera"
+edit: "Redigera"
+close: "Stäng"
+back: "Tillbaka"
+next: "Nästa"
+apply: "Verkställ"
+reset: "Återställ"
+refresh: "Uppdatera"
+submit: "Skicka"
+
+# ─────────── Navigation ───────────
+page: "Sida"
+pages: "Sida {0} av {1}"
+of: "av"
+search: "Sök..."
+search_placeholder: "Ange sökning..."
+results: "Hittad: {0}"
+loading: "Laddar..."
+navigate: "Navigera"
+menu: "Meny"
+home: "Hem"
+
+# ─────────── Status ───────────
+success: "Lyckades"
+error: "Fel"
+warning: "Varning"
+info: "Info"
+unknown: "Okänd"
+pending: "Avvaktar"
+completed: "Slutförd"
+failed: "Misslyckades"
+enabled: "Aktiverad"
+disabled: "Inaktiverad"
+active: "Aktiv"
+inactive: "Inaktiv"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} objekt"
+  none: "Inga objekt"
+  selected: "Vald: {0}"
+  all: "Alla objekt"
+  remove: "Ta bort objekt"
+  add: "Lägg till objekt"
+
+coins:
+  count: "{0} mynt"
+  singular: "{0} mynt"
+  plural: "{0} mynt"
+  balance: "Saldo: {0}"
+
+inventory:
+  full: "Förrådet är fullt"
+  empty: "Förrådet är tomt"
+  slots: "{0}/{1} platser"
+
+# ─────────── Time ───────────
+time:
+  ago: "för {0} sedan"
+  now: "Just nu"
+  seconds: "{0}s"
+  minutes: "{0}m"
+  hours: "{0}h"
+  days: "{0}d"
+  weeks: "{0}v"
+  months: "{0}mån"
+  years: "{0}år"
+
+date:
+  format: "yyyy-MM-dd"
+  today: "Idag"
+  yesterday: "Igår"
+  tomorrow: "Imorgon"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "Välkommen, {0}!"
+  goodbye: "Hejdå, {0}!"
+  no_permission: "Du har inte behörighet"
+  command_disabled: "Detta kommando är inaktiverat"
+  player_not_found: "Spelaren hittades inte"
+  reload_success: "Konfigurationen laddades om"
+  save_success: "Data sparades framgångsrikt"
+  delete_confirm: "Är du säker på att du vill radera?"

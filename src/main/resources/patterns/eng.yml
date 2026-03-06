@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════════
+# ModernTranslate - Global Patterns
+# Language: English (eng)
+# ═══════════════════════════════════════════════════════════
+
+# ─────────── Actions ───────────
+yes: "Yes"
+no: "No"
+confirm: "Confirm"
+cancel: "Cancel"
+save: "Save"
+delete: "Delete"
+edit: "Edit"
+close: "Close"
+back: "Back"
+next: "Next"
+apply: "Apply"
+reset: "Reset"
+refresh: "Refresh"
+submit: "Submit"
+
+# ─────────── Navigation ───────────
+page: "Page"
+pages: "Page {0} of {1}"
+of: "of"
+search: "Search..."
+search_placeholder: "Enter query..."
+results: "Found: {0}"
+loading: "Loading..."
+navigate: "Navigate"
+menu: "Menu"
+home: "Home"
+
+# ─────────── Status ───────────
+success: "Success"
+error: "Error"
+warning: "Warning"
+info: "Info"
+unknown: "Unknown"
+pending: "Pending"
+completed: "Completed"
+failed: "Failed"
+enabled: "Enabled"
+disabled: "Disabled"
+active: "Active"
+inactive: "Inactive"
+
+# ─────────── UI Elements ───────────
+items:
+  count: "{0} items"
+  none: "No items"
+  selected: "Selected: {0}"
+  all: "All items"
+  remove: "Remove item"
+  add: "Add item"
+
+coins:
+  count: "{0} coins"
+  singular: "{0} coin"
+  plural: "{0} coins"
+  balance: "Balance: {0}"
+
+inventory:
+  full: "Inventory is full"
+  empty: "Inventory is empty"
+  slots: "{0}/{1} slots"
+
+# ─────────── Time ───────────
+time:
+  ago: "{0} ago"
+  now: "Just now"
+  seconds: "{0}s"
+  minutes: "{0}m"
+  hours: "{0}h"
+  days: "{0}d"
+  weeks: "{0}w"
+  months: "{0}mo"
+  years: "{0}y"
+
+date:
+  format: "MM/dd/yyyy"
+  today: "Today"
+  yesterday: "Yesterday"
+  tomorrow: "Tomorrow"
+
+# ─────────── Messages ───────────
+messages:
+  welcome: "Welcome, {0}!"
+  goodbye: "Goodbye, {0}!"
+  no_permission: "You don't have permission"
+  command_disabled: "This command is disabled"
+  player_not_found: "Player not found"
+  reload_success: "Configuration reloaded"
+  save_success: "Data saved successfully"
+  delete_confirm: "Are you sure you want to delete?"
